@@ -17,3 +17,4 @@
 - **Database:** MongoDB Atlas (Database: `234809_LeDinhDung`, Collection: `devices`)
 - **Containerization:** Docker, Docker Hub
 - **Cloud Hosting:** Render
+- **Trạng thái:** Đã hoàn thành và kiểm thử toàn bộ hệ thống.
