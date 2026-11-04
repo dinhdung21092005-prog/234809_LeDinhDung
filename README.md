@@ -1,6 +1,6 @@
 # HỆ THỐNG QUẢN LÝ THIẾT BỊ PHÒNG HỌC
 
-- **Sinh viên thực hiện:** Lê Đình Dũng
+- **Sinh viên thực hiện:** Lê Đình Dửng
 - **MSSV:** 234809
 - **Đề tài:** Xây dựng và triển khai hệ thống quản lý thiết bị phòng học trên nền tảng đám mây
 
